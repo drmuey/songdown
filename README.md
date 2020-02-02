@@ -8,8 +8,8 @@ Rules:
 
 1. Use whateever markdown flavor you want.
 2. The only deviations are conceptual:
-   1. inline code (\`\`) is a chord
-   2. multiline code (begins and ends w/ \`\`\`) is tablature
+   1. inline code (`\`\``) is a chord
+   2. multiline code (begins and ends w/ `\`\`\``) is tablature
 3. Render it w/ whatever tool you like
 4. Style the results how you like
 
