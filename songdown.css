@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
+
+.songdown {
+    font-family: 'Inconsolata', monospace;
+    color: #696969;
+}
+.songdown > h1 {}
+
+.songdown > p {
+  position: relative;
+  left: 42px;
+
+  font-size: x-large;
+  white-space: pre;
+}
+
+.songdown > p > code {
+  color:  rgb(230, 145, 56);
+  font-size: xxx-large;
+  background-color: rgb(252, 229, 205);
+}
+
+.songdown > pre > code {}
