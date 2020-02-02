@@ -59,10 +59,10 @@ Which I then style like [songdown.css](songdown.css)
 ## TODO
 
 1. Add result of example above but of an entire song
-1. Add File name Rules
-1. Handle Variations
-1. Handle Meta-data
-1. Handle Variables
+1. Describe File name Rules
+1. Describe Variations
+1. Describe Meta-data
+1. Describe Pointers
 1. How to add Transposition
 1. How to add Guitar Chords
 1. How to add Uke Chords
