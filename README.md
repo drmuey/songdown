@@ -2,7 +2,7 @@
 
 Markdown for chord/lyric sheets
 
-There are a lot of formats for doing this sort of thing (See “See also”) but I wanted something simpler that did not require its own parser.
+There are a lot of formats for doing this sort of thing (See “See also”) but I wanted something simpler that did not require its own parser (and would render relatively ok in a markdown viewer even if it didn’t have special styles).
 
 Rules:
 
