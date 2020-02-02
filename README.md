@@ -64,10 +64,10 @@ Which I then style with something like [songdown.css](songdown.css).
 1. Describe Meta-data
 1. Describe Pointers
 1. How to song list/set list git repos
-1. How to add Transposition
-1. How to add Guitar Chords
-1. How to add Uke Chords
-1. How to add Tablature
+1. How to add Transposition - https://github.com/jessegavin/jQuery-Chord-Transposer
+1. How to add Guitar Chords - http://vexflow.com/vexchords/index.html
+1. How to add Uke Chords - https://github.com/pianosnake/uke-chord
+1. How to add Tablature - http://www.vexflow.com/vextab/tutorial.html
 
 ## See Also
 
