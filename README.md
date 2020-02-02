@@ -57,8 +57,9 @@ All I want is to want <code>C</code> nothing.</p>
 Which I then style like this:
 
 ```
-<link href="https://fonts.googleapis.com/css?family=Inconsolata&display=swap" rel="stylesheet">
 <style type="text/css">
+@import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
+
 .songdown {
     font-family: 'Inconsolata', monospace;
     color: #696969;
