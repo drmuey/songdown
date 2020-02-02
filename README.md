@@ -85,6 +85,7 @@ Which I then style like this:
 
 ## TODO
 
+1. Add result of example above but of an entire song
 1. Add File name Rules
 1. Handle Variations
 1. Handle Meta-data
