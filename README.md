@@ -2,7 +2,7 @@
 
 Markdown for chord/lyric sheets
 
-There are a lot of formats for doing this sort of thing (See “See also”) but I wanted something simpler that did not require its own parser (and would render relatively ok in a markdown viewer even if it didn’t have special styles).
+There are a lot of formats for doing this sort of thing (See “See Also”) but I wanted something simpler that did not require its own parser (and would render relatively ok in a markdown viewer even if it didn’t have special styles).
 
 Rules:
 
@@ -69,7 +69,7 @@ Which I then style with something like [songdown.css](songdown.css).
 1. How to add Uke Chords
 1. How to add Tablature
 
-## See also
+## See Also
 
 1. https://markato.studio/
 1. https://github.com/music-markdown/markdown-it-music/wiki/Chord-Chart-Language
