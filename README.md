@@ -54,7 +54,7 @@ All I want is to want <code>C</code> nothing.</p>
    </pre>
 </div>
 ```
-Which I then style like [songdown.css](songdown.css)
+Which I then style with something like [songdown.css](songdown.css).
 
 ## TODO
 
@@ -63,6 +63,7 @@ Which I then style like [songdown.css](songdown.css)
 1. Describe Variations
 1. Describe Meta-data
 1. Describe Pointers
+1. How to song list/set list git repos
 1. How to add Transposition
 1. How to add Guitar Chords
 1. How to add Uke Chords
