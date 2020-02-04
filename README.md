@@ -13,6 +13,13 @@ Rules:
 3. Render it w/ whatever tool you like
 4. Style the results how you like
 
+Suggestions:
+
+1. Use unicode charcter instead of ascii version:
+   * e.g. `♭` for flat instead of th eletter b, `♯` for sharp instead of `#`, `♮` for natural, etc (if you want others google “Unicode Musical Symbols”)
+2. If you chnage lyrics mark it w/ ⫷ and ⫸
+   * e.g. If the original lyric is “yeeeeah you’re a naughty word goes here and then some word words” you would notate it lile this: “yeeeeah you’re a ⫷not very nice person⫸ and then some word words”
+
 For example,
 
 Say I have this markdown:
