@@ -15,9 +15,11 @@ Rules:
 
 Suggestions:
 
-1. Use unicode charcter instead of ascii version:
-   * e.g. `♭` for flat instead of th eletter b, `♯` for sharp instead of `#`, `♮` for natural, etc (if you want others google “Unicode Musical Symbols”)
-2. If you chnage lyrics mark it w/ ⫷ and ⫸
+1. Use unicode characters instead of ascii version:
+   * e.g. `♭` for flat instead of the letter `b`, `♯` for sharp instead of `#`, `♮` for natural, etc (if you want others google “Unicode Musical Symbols”)
+   * e.g. instead of HTML symbols `'`, `"`, `<`, and `>` use spiffy Unicode variants like ’ (for apostrophe), “ and ” for double quotes, ‘ and ’ for single quotes (quotation already inside double quotations), full width ＜ and ＞ characters, etc …
+   * e.g. instead of consecutive periods to ellide (e.g. `.....`) use the ellide character `…`
+2. If you change lyrics mark it w/ ⫷ and ⫸
    * e.g. If the original lyric is “yeeeeah you’re a naughty word goes here and then some word words” you would notate it lile this: “yeeeeah you’re a ⫷not very nice person⫸ and then some word words”
 
 For example,
