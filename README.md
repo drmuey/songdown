@@ -19,6 +19,7 @@ Suggestions:
    * e.g. `♭` for flat instead of the letter `b`, `♯` for sharp instead of `#`, `♮` for natural, etc (if you want others google “Unicode Musical Symbols”)
    * e.g. instead of HTML symbols `'`, `"`, `<`, and `>` use spiffy Unicode variants like ’ (for apostrophe), “ and ” for double quotes, ‘ and ’ for single quotes (quotation already inside double quotations), full width ＜ and ＞ characters, etc …
    * e.g. instead of consecutive periods to ellide (e.g. `.....`) use the ellide character `…`
+      * To add clarity put a space between the `…` and the word before it unless you are truncating the word.
 2. If you change lyrics mark it w/ ⫷ and ⫸
    * e.g. If the original lyric is “yeeeeah you’re a naughty word goes here and then some word words” you would notate it lile this: “yeeeeah you’re a ⫷not very nice person⫸ and then some word words”
 
