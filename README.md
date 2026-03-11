@@ -41,6 +41,13 @@ All I want `A` is to want nothing.
 All I want is to want `C` nothing.
 
 ---
+\`\`\`
++--3--
++--2--
++--1--
+\`\`\`
+
+---
 
 ## Practice Notes
 
