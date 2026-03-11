@@ -66,25 +66,25 @@ CDEF GABc |
    - Sharps: `♯` instead of `#`
    - Natural: `♮`
    - Apostrophe: `'` instead of `'
-   - Double quotes: `"` and `"` instead of `"`
-   - Single quotes: `'` and `'` instead of `'
+   - Double quotes: `“` and `”` instead of `"`
+   - Single quotes: `’` and `’` instead of `'`
    - Ellipsis: `…` instead of consecutive periods
 
 2. If you change lyrics, mark it with `⁂` at the beginning and end:
-   - Example: "yeeeeah you're a ⁂not very nice person⁂ and then some words"
+   - Example: "yeeeeah you're a `⁂`not very nice person`⁂` and then some words"
 
 3. For practice notes on subsequent pages, use fenced code blocks with ABC notation for musical notation, or with language identifiers for tabs and chords:
    - ABC notation: \`
 \`
-abc ... \`
+abc … \`
 \`
    - Guitar tabs: \`
 \`
-tab ... \`
+tab  … \`
 \`
    - Chords: \`
 \`
-chords ... \`
+chords … \`
 \`
 
 ## See Also
