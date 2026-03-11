@@ -66,6 +66,30 @@ CDEF GABc |
 \`
 ```
 
+### Rendered
+
+```
+<div class="songdown">
+  <h1>Chorus</h1>
+  <p>      <code>A</code>      <code>C</code>
+All I want is to want nothing.
+                       (yeah I said nothing)</p>
+  <h1>Outro</h1>
+  <p>All I want <code>A</code> is to want nothing.           
+All I want is to want <code>C</code> nothing.</p>
+  <hr/>
+  <pre>
+    <code>
++--3--
++--2--
++--1--
+    </code>
+   </pre>
+</div>
+```
+
+Which I then style with something like [songdown.css](songdown.css).
+
 ## Suggestions
 
 1. Use unicode characters instead of ASCII versions:
